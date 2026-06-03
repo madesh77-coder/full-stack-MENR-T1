@@ -1,0 +1,29 @@
+/*selector {
+    property: value;
+}*/
+
+p {
+    color: rgb(0, 174, 255);
+    
+} 
+h1 {
+    color: rgb(255, 0, 0);
+}
+#text {
+    color: rgb(0, 255, 0);
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.link {
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+}
+.{
+    colour: rgb(255, 0, 255);
+    background-color: rgb(255, 255, 0);
+}
+h1, p,a{
+    color: rgb(255, 208, 0);
+}
